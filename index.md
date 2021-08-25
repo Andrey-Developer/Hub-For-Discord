@@ -9,5 +9,5 @@ Hub goes offline the last 7 days of the month. After the 7 days, Hub will go onl
 Message Andrey!#2209 for any inquiries
 
 <dl>
-<iframe src="https://canary.discord.com/widget?id=845310892152586240&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://canary.discord.com/widget?id=845310892152586240&theme=dark" width="150" height="250" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
   </dl>
