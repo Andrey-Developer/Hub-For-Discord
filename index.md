@@ -1,4 +1,4 @@
-### Hub
+### **Hub**
 
 is the **Hub** of your Discord server. The all in one moderation, fun, and practical bot.
 
