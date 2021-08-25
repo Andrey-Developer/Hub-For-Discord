@@ -14,5 +14,5 @@ Message Andrey!#2209 for any inquiries
 
 **Join the Hub development community here!**
 <dl>
-<iframe src="https://canary.discord.com/widget?id=845310892152586240&theme=dark" width="150" height="250" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://discord.com/widget?id=845310892152586240&theme=dark" width="150" height="250" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
   </dl>
