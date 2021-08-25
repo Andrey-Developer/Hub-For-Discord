@@ -12,4 +12,7 @@ Hub goes offline the last 7 days of the month. After the 7 days, Hub will go onl
 <dl>
 <iframe src="https://discord.com/widget?id=845310892152586240&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
   </dl>
+  
+  ***
+  
 Message Andrey!#2209 for any inquiries
