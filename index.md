@@ -10,7 +10,7 @@ Message Andrey!#2209 for any inquiries
 
 ***
 
-### **Join the Hub development community here!**
+### **Join the Hub development community here**
 <dl>
 <iframe src="https://discord.com/widget?id=845310892152586240&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
   </dl>
