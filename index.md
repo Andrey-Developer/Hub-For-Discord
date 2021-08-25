@@ -1,6 +1,6 @@
 # Hub
 
-is a Discord bot that has features from moderation, to fun.
+is the Hub of your Discord server. The all in one moderation and fun bot.
 
 Hub goes offline the last 7 days of the month. After the 7 days, Hub will go online with new features and fixes!
 
