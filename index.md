@@ -16,3 +16,8 @@ Hub goes offline the last 7 days of the month. After the 7 days, Hub will go onl
   ***
   
 Message Andrey!#2209 for any inquiries
+
+
+<dl>
+  <link rel="shortcut icon" type="image/x-icon" href="Hub.ico">
+  </dl>
