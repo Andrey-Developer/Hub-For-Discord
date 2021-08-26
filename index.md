@@ -19,5 +19,5 @@ Message Andrey!#2209 for any inquiries
 
 
 <dl>
-  <link rel="shortcut icon" type="image/x-icon" href="Hub.ico">
+<link rel="shortcut icon" type="image/x-icon" href="Hub-For-Discord/Hub.ico">
   </dl>
